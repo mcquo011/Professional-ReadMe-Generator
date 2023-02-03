@@ -2,33 +2,53 @@
 // Dependencies
 const inquirer = require("inquirer");
 const fs = require("fs");
-const generateMarkdown = require("./utils/generateMarkdown");
+const generateMarkdown = require("./Develop/utils/generateMarkdown");
 // TODO: Create an array of questions for user input
 const questions = [
   {
     type: "input",
     message: "What is the title of your Repository?",
     name: "title",
+    validate: (value) => {
+        if (value === "") {
+            return 'You must enter a title!';
+        } return true; 
+    }
   },
   {
     type: "input",
     message: "What is your Github username?",
     name: "userName",
+    validate: (value) => {
+        if (value === "") {
+            return 'You must enter an username!';
+        } return true
+    }
   },
   {
     type: "input",
     message: "What is your email?",
     name: "email",
+    validate: (value) => {
+        if (value === "" ) {
+            return 'You must enter an email!'
+        } return true
+    }
   },
   {
     type: "input",
     message: "Describe your project:",
     name: "description",
+    validate: (value) => {
+        if (value === "") {
+            return 'Please enter a description!'
+        } return true
+    }
   },
   {
     type: "list",
     message: "Choose a license:",
-    choices: ["MIT", "APACHE2.0", "Boost1.0", "GPL3.0", "BSD2", "BSD3", "None"],
+    choices: ["MIT", "APACHE2.0", "GPL3.0", "None"],
     name: "license",
   },
   {
