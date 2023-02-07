@@ -14,8 +14,8 @@ function renderLicenseBadge(license) {
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
 function renderLink(license) {
-  if (license !== "None") {
-    return [license];
+  if (license !== "none") {
+    return `[${license}]`;
   }
   return "";
 }
@@ -34,6 +34,10 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ${renderLicenseBadge(data.license)}
 
+ ## Table of Contents
+
+  * [GitHub](#userName)
+
   ## GitHub
 
   [${data.userName}](https://github.com/${data.userName}/)
@@ -42,7 +46,7 @@ function generateMarkdown(data) {
 
   ${data.description}
 
-  ## Table of Contents
+ 
 
   ## Dependencies 
 
@@ -60,6 +64,7 @@ function generateMarkdown(data) {
 
   ${renderLicenseSection(data.license)}
   ${renderLink(data.license)}
+  
 `;
 }
 

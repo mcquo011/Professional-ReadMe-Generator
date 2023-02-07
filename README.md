@@ -1,6 +1,10 @@
 # test
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+ ## Table of Contents
+
+  * [GitHub](#userName)
+
   ## GitHub
 
   [mcquo011](https://github.com/mcquo011/)
@@ -9,7 +13,7 @@
 
   test
 
-  ## Table of Contents
+ 
 
   ## Dependencies 
 
@@ -28,4 +32,5 @@
   ## License
   
     Copyright (c) MIT
-  MIT
+  [MIT]
+  
