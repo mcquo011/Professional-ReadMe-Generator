@@ -15,7 +15,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLink(license) {
   if (license !== "none") {
-    return `[${license}]`;
+    return [license];
   }
   return "";
 }
