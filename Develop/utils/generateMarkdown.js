@@ -24,7 +24,7 @@ function renderLink(license) {
 function renderLicenseSection(license) {
   if (license === "none") {
     return ""
-  } `## License
+  } return `## License
   
     Copyright (c) ${license}`;
 }
@@ -36,7 +36,7 @@ function generateMarkdown(data) {
 
   ## GitHub
 
-  [${data.github}](https://github.com/${data.github}/)
+  [${data.userName}](https://github.com/${data.userName}/)
 
   ## Description 
 
@@ -46,7 +46,7 @@ function generateMarkdown(data) {
 
   ## Dependencies 
 
-  ${data.depedencies}
+  ${data.dependencies}
 
   ## Usage
 

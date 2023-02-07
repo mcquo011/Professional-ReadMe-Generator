@@ -3,7 +3,7 @@
 
   ## GitHub
 
-  [undefined](https://github.com/undefined/)
+  [mcquo011](https://github.com/mcquo011/)
 
   ## Description 
 
@@ -13,7 +13,7 @@
 
   ## Dependencies 
 
-  undefined
+  npm i inquirer@8.2.4
 
   ## Usage
 
@@ -25,5 +25,7 @@
 
   ## License 
 
-  undefined
+  ## License
+  
+    Copyright (c) MIT
   MIT
