@@ -87,15 +87,18 @@ function writeToFile(data) {
 
 // TODO: Create a function to initialize app
 function init() {
-  return inquirer.prompt(questions)
+  return inquirer
+    .prompt(questions)
+    .then((userInput) => {
+      console.log(userInput);
+      return generateMarkdown(userInput);
+    })
+    .then((readMeData) => {
+      return writeToFile(readMeData);
+    });
 
 }
 
 // Function call to initialize app
-init().then(userInput => {
-  console.log(userInput)
-  return generateMarkdown(userInput)
-}).then (readMeData => {
-  return writeToFile(readMeData)
-})
+init()
 
