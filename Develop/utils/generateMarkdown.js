@@ -36,7 +36,8 @@ function generateMarkdown(data) {
 
  ## Table of Contents
 
-  * [GitHub](#userName)
+  * [GitHub](#github)
+  * [Description](#description)
 
   ## GitHub
 

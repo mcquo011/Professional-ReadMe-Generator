@@ -3,11 +3,12 @@
 
  ## Table of Contents
 
-  * [GitHub](#userName)
+  * [GitHub](#github)
+  * [Description](#description)
 
   ## GitHub
 
-  [mcquo011](https://github.com/mcquo011/)
+  [mquo011](https://github.com/mquo011/)
 
   ## Description 
 
