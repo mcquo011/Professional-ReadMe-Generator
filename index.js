@@ -10,40 +10,44 @@ const questions = [
     message: "What is the title of your Repository?",
     name: "title",
     validate: (value) => {
-        if (value === "") {
-            return 'You must enter a title!';
-        } return true; 
-    }
+      if (value === "") {
+        return "You must enter a title!";
+      }
+      return true;
+    },
   },
   {
     type: "input",
     message: "What is your Github username?",
     name: "userName",
     validate: (value) => {
-        if (value === "") {
-            return 'You must enter an username!';
-        } return true
-    }
+      if (value === "") {
+        return "You must enter an username!";
+      }
+      return true;
+    },
   },
   {
     type: "input",
     message: "What is your email?",
     name: "email",
     validate: (value) => {
-        if (value === "" ) {
-            return 'You must enter an email!'
-        } return true
-    }
+      if (value === "") {
+        return "You must enter an email!";
+      }
+      return true;
+    },
   },
   {
     type: "input",
     message: "Describe your project:",
     name: "description",
     validate: (value) => {
-        if (value === "") {
-            return 'Please enter a description!'
-        } return true
-    }
+      if (value === "") {
+        return "Please enter a description!";
+      }
+      return true;
+    },
   },
   {
     type: "list",
@@ -62,6 +66,7 @@ const questions = [
     name: "usage",
     message: "How do you use your application?",
   },
+  
   {
     type: "input",
     name: "contributers",
@@ -70,10 +75,27 @@ const questions = [
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(data) {
+  fs.writeFile("README.md", data, (err) => {
+    if (err) {
+      console.error(`Error generating ReadMe: ${err}`);
+    } else {
+      console.log(`ReadMe generated successfully.`);
+    }
+  });
+}
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+  return inquirer.prompt(questions)
+
+}
 
 // Function call to initialize app
-init();
+init().then(userInput => {
+  console.log(userInput)
+  return generateMarkdown(userInput)
+}).then (readMeData => {
+  return writeToFile(readMeData)
+})
+
