@@ -42,6 +42,10 @@ function generateMarkdown(data) {
 
   * [GitHub](#github)
   * [Description](#description)
+  * [Dependencies](#dependencies)
+  * [Usage](#usage)
+  * [Contributers](#contributers)
+  * [License](#license)
 
   ## GitHub
 
