@@ -1,4 +1,4 @@
-# Professional ReadMe Generator
+# Test
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
  ## Table of Contents
@@ -12,11 +12,11 @@
 
   ## GitHub
 
-  [mcquo011](https://github.com/mcquo011/)
+  [Test](https://github.com/Test/)
 
   ## Description 
 
-  This project was created to give users a way to create a professional readMe
+  Test
 
   ## Dependencies 
 
@@ -24,11 +24,11 @@
 
   ## Usage
 
-  Clone code and run node index.js in command line
+  Test
 
   ## Contributers 
 
-  Me
+  Test
 
   ## License
   
