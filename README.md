@@ -8,7 +8,7 @@
 
   ## GitHub
 
-  [test](https://github.com/test/)
+  [mcquo011](https://github.com/mcquo011/)
 
   ## Description 
 
@@ -33,5 +33,5 @@
   ## License
   
     Copyright (c) MIT
-  MIT
+  [![MIT](https://opensource.org/licenses/MIT)
   
