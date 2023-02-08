@@ -1,4 +1,4 @@
-# Test Repo
+# Professional ReadMe Test
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
  ## Table of Contents 📑
@@ -18,7 +18,7 @@
 
   ## Description 📝
 
-  This is a test
+  This is a test to make sure my application is working correctly.
 
   ## Dependencies 💻 
 
@@ -26,7 +26,7 @@
 
   ## Usage 📲
 
-  This is a test
+  Run node index.js to use this application. 
 
   ## Contributers 🤝
 
@@ -43,5 +43,5 @@
 
   ## Questions ❓
 
-  If you have any questions please email me at mcquo011@umn.edu
+  If you have any questions please email me at omcquown@gmail.com
   
