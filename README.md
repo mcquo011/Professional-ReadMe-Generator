@@ -1,5 +1,4 @@
 # Professional ReadMe Generator
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
  ## Table of Contents
 
@@ -12,11 +11,18 @@
 
   ## GitHub
 
-  [mcquo011](https://github.com/mcquo011/)
+  [Maggie McQuown's GitHub Profile](https://github.com/mcquo011/)
+  [Walkthrough]
 
   ## Description 
 
-  This project was created to give users a way to create a professional readMe
+  A professional ReadMe is an important aspect of a good repository. 
+
+  ## Built with
+
+  * JavaScript
+  * Node JS
+  * JSON 
 
   ## Dependencies 
 
@@ -24,14 +30,15 @@
 
   ## Usage
 
-  Clone code and run node index.js in command line
+  To generate a professional ReadMe using the command line, first clone the code. In the command line run "node index.js". The user will then be prompted to answer a series of questions. Once they are all answered, the ReadMe file will be generated.
 
   ## Contributers 
 
-  Me
+  [Maggie McQuown](https://github.com/mcquo011/)
 
   ## License
+
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
-    Copyright (c) MIT
-  [MIT](https://opensource.org/licenses/MIT)
+  Copyright (c) [MIT](https://opensource.org/licenses/MIT)
   

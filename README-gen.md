@@ -1,37 +1,47 @@
-# Test
+# Test Repo
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
- ## Table of Contents
+ ## Table of Contents 📑
 
   * [GitHub](#github)
   * [Description](#description)
   * [Dependencies](#dependencies)
   * [Usage](#usage)
   * [Contributers](#contributers)
+  * [Test](#test)
   * [License](#license)
+  * [Questions](#question)
 
-  ## GitHub
+  ## GitHub 🌎
 
-  [Test](https://github.com/Test/)
+  [mcquo011](https://github.com/mcquo011/)
 
-  ## Description 
+  ## Description 📝
 
-  Test
+  This is a test
 
-  ## Dependencies 
+  ## Dependencies 💻 
 
   npm i inquirer@8.2.4
 
-  ## Usage
+  ## Usage 📲
 
-  Test
+  This is a test
 
-  ## Contributers 
+  ## Contributers 🤝
 
-  Test
+  Maggie McQuown
+
+  ## Tests 🧪
+
+  Run node index.js to test the Readme generator.
 
   ## License
   
-    Copyright (c) MIT
+  Copyright (c) MIT
   [MIT](https://opensource.org/licenses/MIT)
+
+  ## Questions ❓
+
+  If you have any questions please email me at mcquo011@umn.edu
   

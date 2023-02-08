@@ -72,6 +72,12 @@ const questions = [
     name: "contributers",
     message: "Who are the contributors on this repository?",
   },
+
+  {
+    type: "input",
+    name: "test",
+    message: "What command should be run to run tests?"
+  }
 ];
 
 // TODO: Create a function to write README file
