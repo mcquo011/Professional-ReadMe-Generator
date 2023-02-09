@@ -45,34 +45,34 @@ function generateMarkdown(data) {
   * [License](#license)
   * [Questions](#question)
 
-  ## GitHub 🌎
+  ## GitHub 
 
   [${data.userName}](https://github.com/${data.userName}/)
 
-  ## Description 📝
+  ## Description 
 
   ${data.description}
 
-  ## Dependencies 💻 
+  ## Dependencies  
 
   ${data.dependencies}
 
-  ## Usage 📲
+  ## Usage 
 
   ${data.usage}
 
-  ## Contributers 🤝
+  ## Contributers 
 
   ${data.contributers}
 
-  ## Tests 🧪
+  ## Tests 
 
   Run ${data.test} to test the Readme generator.
 
   ${renderLicenseSection(data.license)}
   ${renderLink(data.license)}
 
-  ## Questions ❓
+  ## Questions 
 
   If you have any questions please email me at ${data.email}
   
