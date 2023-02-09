@@ -3,14 +3,13 @@
 
  ## Table of Contents 📑
 
-  * [GitHub](#Github)
-  * [Description](#Description)
+  * [GitHub](#github)
+  * [Description](#description)
   * [Dependencies](#dependencies)
   * [Usage](#usage)
   * [Contributers](#contributers)
   * [Test](#test)
   * [License](#license)
-  * [Questions](#question)
 
   ## GitHub 🌎
 
