@@ -40,6 +40,9 @@
 
   ## Screenshots  
 
+![Alt Text](./Develop/images/Screen%20Shot%202023-02-09%20at%202.30.33%20PM.png?raw=true "Screenshot of code")
+
+![Alt Text](./Develop/images/Screen%20Shot%202023-02-09%20at%202.31.35%20PM.png?raw=true "Screenshot of readme")
 
   ## Contributers 
 
