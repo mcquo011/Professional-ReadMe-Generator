@@ -4,18 +4,18 @@
  ## Table of Contents 📑
 
   * [GitHub](#github)
-  * [Description](#description)
+  * [Description](#description📝)
   * [Dependencies](#dependencies)
   * [Usage](#usage)
   * [Contributers](#contributers)
   * [Test](#test)
   * [License](#license)
 
-  ## GitHub 🌎
+  ## GitHub 
 
   [test](https://github.com/test/)
 
-  ## Description 📝
+  ## Description 
 
   test
 
