@@ -3,9 +3,8 @@
 
  ## Table of Contents 📑
 
-  * [GitHub](#github)
- 
-  * [Description](#description)
+  * [GitHub](#Github)
+  * [Description](#Description)
   * [Dependencies](#dependencies)
   * [Usage](#usage)
   * [Contributers](#contributers)
