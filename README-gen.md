@@ -1,5 +1,5 @@
-# Professional ReadMe Test
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Professional ReadMe Generator
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
  ## Table of Contents 📑
 
@@ -18,7 +18,7 @@
 
   ## Description 📝
 
-  This is a test to make sure my application is working correctly.
+  This is a Node.js based tool for users to quickly and efficiently create professional and well-structured README file for their projects.
 
   ## Dependencies 💻 
 
@@ -26,7 +26,7 @@
 
   ## Usage 📲
 
-  Run node index.js to use this application. 
+  Run node index.js
 
   ## Contributers 🤝
 
@@ -36,10 +36,10 @@
 
   Run node index.js to test the Readme generator.
 
-  ## License
+  ## License ©️ 
   
-  Copyright (c) MIT
-  [MIT](https://opensource.org/licenses/MIT)
+  Copyright (c) APACHE2.0
+  [APACHE2.0](https://opensource.org/licenses/Apache-2.0)
 
   ## Questions ❓
 

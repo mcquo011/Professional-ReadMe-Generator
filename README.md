@@ -16,7 +16,7 @@
 
   ## Description 
 
-  A professional ReadMe is an important aspect of a good repository. 
+  The Professional Readme Generator, is a Node.js based application that helps developers quickly and efficiently create professional and well-structured README file for their projects. The app prompts the user with a series of questions regarding their project and based on the answers provided, generates a complete README file in markdown format. The generated file can be easily exported and added to your project repository.
 
   ## Built with
 
@@ -30,15 +30,23 @@
 
   ## Usage
 
-  To generate a professional ReadMe using the command line, first clone the code. In the command line run "node index.js". The user will then be prompted to answer a series of questions. Once they are all answered, the ReadMe file will be generated.
+  To use the Readme Generator, follow these steps:
+
+1. Clone or download the repository to your local machine.
+2. Navigate to the project directory and run npm i inquirer@8.2.4 to install all    dependencies.
+3. Run node index.js to start the application.
+4. Answer the prompts regarding your project.
+5. The generated README file will be displayed as a .md file named "README-gen.md"
+
+  ## Screenshots  
+
 
   ## Contributers 
 
   [Maggie McQuown](https://github.com/mcquo011/)
 
   ## License
-
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   Copyright (c) [MIT](https://opensource.org/licenses/MIT)
+
   
