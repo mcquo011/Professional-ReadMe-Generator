@@ -4,34 +4,35 @@
  ## Table of Contents 📑
 
   * [GitHub](#github)
-  * [Description](#description📝)
+  * [Description](#description)
   * [Dependencies](#dependencies)
   * [Usage](#usage)
   * [Contributers](#contributers)
   * [Test](#test)
   * [License](#license)
+  * [Questions](#question)
 
   ## GitHub 
 
   [test](https://github.com/test/)
 
-  ## Description 📝
+  ## Description 
 
   test
 
-  ## Dependencies 💻 
+  ## Dependencies  
 
   test
 
-  ## Usage 📲
+  ## Usage 
 
   test
 
-  ## Contributers 🤝
+  ## Contributers 
 
   test
 
-  ## Tests 🧪
+  ## Tests 
 
   Run test to test the Readme generator.
 
@@ -40,7 +41,7 @@
   Copyright (c) MIT
   [MIT](https://opensource.org/licenses/MIT)
 
-  ## Questions ❓
+  ## Questions 
 
   If you have any questions please email me at test
   
