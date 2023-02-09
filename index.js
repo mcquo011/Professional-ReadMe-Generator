@@ -86,7 +86,7 @@ const questions = [
 
 
 function writeToFile(data) {
-  fs.writeFile("README-gen.md", data, (err) => {
+  fs.writeFile("readme-gen.md", data, (err) => {
     if (err) {
       console.error(`Error generating ReadMe: ${err}`);
     } else {

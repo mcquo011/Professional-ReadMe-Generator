@@ -1,9 +1,10 @@
-# Professional ReadMe Generator
-  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# test
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
  ## Table of Contents 📑
 
   * [GitHub](#github)
+ 
   * [Description](#description)
   * [Dependencies](#dependencies)
   * [Usage](#usage)
@@ -14,34 +15,34 @@
 
   ## GitHub 🌎
 
-  [mcquo011](https://github.com/mcquo011/)
+  [test](https://github.com/test/)
 
   ## Description 📝
 
-  This is a Node.js based tool for users to quickly and efficiently create professional and well-structured README file for their projects.
+  test
 
   ## Dependencies 💻 
 
-  npm i inquirer@8.2.4
+  test
 
   ## Usage 📲
 
-  Run node index.js
+  test
 
   ## Contributers 🤝
 
-  Maggie McQuown
+  test
 
   ## Tests 🧪
 
-  Run node index.js to test the Readme generator.
+  Run test to test the Readme generator.
 
   ## License ©️ 
   
-  Copyright (c) APACHE2.0
-  [APACHE2.0](https://opensource.org/licenses/Apache-2.0)
+  Copyright (c) MIT
+  [MIT](https://opensource.org/licenses/MIT)
 
   ## Questions ❓
 
-  If you have any questions please email me at omcquown@gmail.com
+  If you have any questions please email me at test
   

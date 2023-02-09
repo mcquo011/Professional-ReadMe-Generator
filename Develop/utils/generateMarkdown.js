@@ -37,6 +37,7 @@ function generateMarkdown(data) {
  ## Table of Contents 📑
 
   * [GitHub](#github)
+ 
   * [Description](#description)
   * [Dependencies](#dependencies)
   * [Usage](#usage)
