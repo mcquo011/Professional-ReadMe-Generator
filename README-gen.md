@@ -18,7 +18,7 @@
 
   ## Description 
 
-  This is a test to show how the readme generator works.
+  This is a test to show how the Readme generator works.
 
   ## Dependencies  
 
@@ -26,7 +26,7 @@
 
   ## Usage 
 
-  This is a test
+  This is a test 
 
   ## Contributers 
 
