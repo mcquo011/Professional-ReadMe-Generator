@@ -18,7 +18,7 @@
 
   ## Description 
 
-  This is an example of a ReadMe created using Node.js
+  A professional ReadMe example using node.js
 
   ## Dependencies  
 
@@ -26,7 +26,7 @@
 
   ## Usage 
 
-  Run node index.js to use the application
+  Run node index.js in your terminal
 
   ## Contributers 
 
@@ -38,7 +38,7 @@
 
   ## License 
   
-  Copyright (c) MIT
+  Copyright (c)
   [MIT](https://opensource.org/licenses/MIT)
 
   ## Questions 
