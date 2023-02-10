@@ -19,7 +19,7 @@
 
   ## Dependencies  
 
-In this section describe the steps to required to install your project and the dependencies needed. 
+In this section describe the steps required to install your project and the dependencies needed. 
 
   ## Usage 
 
