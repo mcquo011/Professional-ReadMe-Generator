@@ -36,7 +36,6 @@ function generateMarkdown(data) {
 
  ## Table of Contents 📑
 
-  * [GitHub](#github)
   * [Description](#description)
   * [Dependencies](#dependencies)
   * [Usage](#usage)
@@ -44,10 +43,6 @@ function generateMarkdown(data) {
   * [Test](#test)
   * [License](#license)
   * [Questions](#question)
-
-  ## GitHub 
-
-  [${data.userName}](https://github.com/${data.userName}/)
 
   ## Description 
 
@@ -74,6 +69,7 @@ function generateMarkdown(data) {
 
   ## Questions 
 
+  You can visit my Github Profile here: [${data.userName}](https://github.com/${data.userName}/) 
   If you have any questions please email me at ${data.email}
   
 `;

@@ -1,9 +1,8 @@
-# Professional ReadMe Example
+# ReadMe Generator Example
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
  ## Table of Contents 📑
 
-  * [GitHub](#github)
   * [Description](#description)
   * [Dependencies](#dependencies)
   * [Usage](#usage)
@@ -12,13 +11,9 @@
   * [License](#license)
   * [Questions](#question)
 
-  ## GitHub 
-
-  [mcquo011](https://github.com/mcquo011/)
-
   ## Description 
 
-  A professional ReadMe example using node.js
+   The Professional Readme Generator, is a Node.js based application that helps developers quickly and efficiently create professional and well-structured README file for their projects.
 
   ## Dependencies  
 
@@ -26,7 +21,7 @@
 
   ## Usage 
 
-  Run node index.js in your terminal
+  run node index.js in your terminal
 
   ## Contributers 
 
@@ -34,7 +29,7 @@
 
   ## Tests 
 
-  Run node index.js to test the Readme generator.
+  Run npm test to test the Readme generator.
 
   ## License 
   
@@ -43,5 +38,6 @@
 
   ## Questions 
 
+  You can visit my Github Profile here: [mcquo011](https://github.com/mcquo011/) 
   If you have any questions please email me at omcquown@gmail.com
   
