@@ -1,4 +1,4 @@
-# test
+# Test Title
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
  ## Table of Contents 📑
@@ -14,27 +14,27 @@
 
   ## GitHub 
 
-  [test](https://github.com/test/)
+  [mcquo011](https://github.com/mcquo011/)
 
   ## Description 
 
-  test
+  This is a test to show how the readme generator works.
 
   ## Dependencies  
 
-  test
+  npm i inquirer@8.2.4
 
   ## Usage 
 
-  test
+  This is a test
 
   ## Contributers 
 
-  test
+  Maggie McQuown
 
   ## Tests 
 
-  Run test to test the Readme generator.
+  Run node index.js to test the Readme generator.
 
   ## License ©️ 
   
@@ -43,5 +43,5 @@
 
   ## Questions 
 
-  If you have any questions please email me at test
+  If you have any questions please email me at omcquown@gmail.com
   
