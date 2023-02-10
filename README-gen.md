@@ -1,4 +1,4 @@
-# Test Title
+# Professional ReadMe Example
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
  ## Table of Contents 📑
@@ -18,7 +18,7 @@
 
   ## Description 
 
-  This is a test to show how the Readme generator works.
+  This is an example of a ReadMe created using Node.js
 
   ## Dependencies  
 
@@ -26,7 +26,7 @@
 
   ## Usage 
 
-  This is a test 
+  Run node index.js to use the application
 
   ## Contributers 
 
@@ -36,7 +36,7 @@
 
   Run node index.js to test the Readme generator.
 
-  ## License ©️ 
+  ## License 
   
   Copyright (c) MIT
   [MIT](https://opensource.org/licenses/MIT)

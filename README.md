@@ -12,8 +12,8 @@
 
   ## GitHub
 
-  [Maggie McQuown's GitHub Profile](https://github.com/mcquo011/)
-  [Walkthrough](https://watch.screencastify.com/v/Xeh3BRFzdkWQRzXyP15U)
+  * [Maggie McQuown's GitHub Profile](https://github.com/mcquo011/)
+  * [Walkthrough](https://watch.screencastify.com/v/Xeh3BRFzdkWQRzXyP15U)
 
   ## Description 
 

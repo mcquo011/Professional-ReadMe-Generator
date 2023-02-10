@@ -24,7 +24,7 @@ function renderLink(license) {
 function renderLicenseSection(license) {
   if (license === "none") {
     return ""
-  } return `## License ©️ 
+  } return `## License 
   
   Copyright (c) ${license}`;
 }
