@@ -15,28 +15,19 @@
 
   Your README.md file on GitHub is a crucial aspect of your online developer identity. Having a well-designed profile showcases your work to other developers and potential employers. 
 
-  The Professional Readme Generator, is a Node.js based application that helps developers quickly and efficiently create professional and well-structured README file for their projects.
+ A good README should be concise, clear, and easy to understand. It should provide the user with all the information they need to get started, including installation instructions, usage instructions, contributers (if any), tests (if any), and a license section. The language should be simple and the formatting should be visually appealing, making it easy for the user to quickly find the information they need.
 
   ## Dependencies  
 
-  npm i inquirer@8.2.4
+In this section describe the steps to required to install your project and the dependencies needed. 
 
   ## Usage 
 
-  Run 'node index.js' in your terminal. Users will be prompted to answer the following questions:
-  * What is the title of your Repository?
-  * What is your Github username?
-  * What is your email?
-  * Describe your project:
-  * Choose a license:
-  * Any dependencies to install?
-  * How do you use your application?
-  * Who are the contributors on this repository?
-  * What command should be run to run tests?
+The purpose of this section is to provide the user with clear and concise instructions on how to get started with the product and to perform common tasks. Include screenshots if necessary. 
 
   ## Contributers 
 
-  Add any contributers here.
+  Add any contributers here along with their GitHub usernames. 
 
   ## Tests 
 
