@@ -40,7 +40,7 @@
 
   ## Tests 
 
-  You can add test to your application and explain to users how to run them.
+  You can add test to your application and example to users how to run them.
 
   ## License 
   

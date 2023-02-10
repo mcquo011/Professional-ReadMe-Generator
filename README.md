@@ -22,8 +22,8 @@
   ## Built with
 
   * JavaScript
-  * Node JS
-  * JSON 
+  * Node.js 
+  * inquirer.js
 
   ## Dependencies 
 
