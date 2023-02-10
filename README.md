@@ -13,7 +13,7 @@
   ## GitHub
 
   * [Maggie McQuown's GitHub Profile](https://github.com/mcquo011/)
-  * [Walkthrough](https://watch.screencastify.com/v/Xeh3BRFzdkWQRzXyP15U)
+  * [Walkthrough](https://watch.screencastify.com/v/4j4pr7o2wQlIc8CeavrE)
 
   ## Description 
 

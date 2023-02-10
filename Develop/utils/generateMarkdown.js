@@ -42,7 +42,7 @@ function generateMarkdown(data) {
   * [Contributers](#contributers)
   * [Test](#test)
   * [License](#license)
-  * [Questions](#question)
+  * [Questions](#questions)
 
   ## Description 
 
