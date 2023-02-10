@@ -26,7 +26,7 @@ function renderLicenseSection(license) {
     return ""
   } return `## License 
   
-  Copyright (c) ${license}`;
+  Copyright (c)`;
 }
 
 
