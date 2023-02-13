@@ -7,9 +7,9 @@
   * [Dependencies](#dependencies)
   * [Usage](#usage)
   * [Contributers](#contributers)
-  * [Test](#test)
+  * [Test](#tests)
   * [License](#license)
-  * [Questions](#question)
+  * [Questions](#questions)
 
   ## Description 
 
@@ -31,7 +31,7 @@ The purpose of this section is to provide the user with clear and concise instru
 
   ## Tests 
 
-  You can add test to your application and example to users how to run them.
+  You can add tests to your application and explain to users how to run them.
 
   ## License 
   
